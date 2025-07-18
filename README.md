@@ -34,14 +34,6 @@
 
 ---
 
-## 🎥 Demo
-
-> *(Optional: Add a demo GIF or screenshot here if you have one)*
-
-![Jarvis Demo](demo.gif)
-
----
-
 ## 🧩 Requirements
 
 pip install pipwin
