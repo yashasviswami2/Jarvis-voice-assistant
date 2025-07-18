@@ -107,6 +107,3 @@ Made with ❤️ by Yashasvi
 
 If you liked this project, don’t forget to ⭐ the repo!
 
-pip install pipwin
-pipwin install pyaudio
-pip install -r requirements.txt
